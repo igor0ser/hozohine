@@ -1,4 +1,4 @@
-# Test task to ProgForce
+# Super Awesome App
 - install node dependencies
 ```sh
   npm install
